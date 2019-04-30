@@ -6,7 +6,7 @@ git clone https://github.com/SnailSword/bosUploadClient.git
 
 # step 2
 
-modify `config.cfg`, you can find your access_key_id and secret_access_key [here](https://console.bce.baidu.com/iam/#/iam/accesslist).
+Modify `config.cfg`, you can find your access_key_id and secret_access_key [here](https://console.bce.baidu.com/iam/#/iam/accesslist).
 
 # step 3
 
